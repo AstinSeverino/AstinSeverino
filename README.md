@@ -33,7 +33,7 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas.svg" alt="Bash" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" alt="Bash" height="50" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Bash" height="50" /></a> 
-<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Bash" height="50" /></a>
+<a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" alt="Bash" height="50" /></a>
 
   
 </div>
